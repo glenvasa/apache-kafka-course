@@ -15,7 +15,7 @@ public class ProducerDemo {
 
 
     public static void main(String[] args) {
-        log.info("It's working");
+        log.info("I am a Kafka Producer");
 
         // create Producer Properties
         Properties properties = new Properties();
